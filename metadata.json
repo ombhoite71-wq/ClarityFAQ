@@ -1,0 +1,6 @@
+{
+  "name": "ClarityFAQ — Minimalist NLP FAQ Chatbot",
+  "description": "An intuitive public FAQ chatbot powered by NLP text preprocessing, tokenization, lemmatization, and TF-IDF cosine similarity matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
